@@ -1,7 +1,7 @@
 body, html {
 	height: 100%;
 	margin: 0;
-	background-image: url(https://res.cloudinary.com/natalialopez17/image/upload/v1581794482/online%20portfolio/photo-1517260911058-0fcfd733702f_u5hjhs.jpg);
+	background-image: url("resources/photo-1517260911058-0fcfd733702f_u5hjhs.jpg");
 	min-height: 1000px;
 
 	background-attachment: fixed;
@@ -13,7 +13,7 @@ body, html {
 .parallax{
 	/* The image used */
 	background-image: 
-	url("https://res.cloudinary.com/natalialopez17/image/upload/v1581972911/online%20portfolio/photo-1476733753947-ae6bd5805081_jvigtz.jpg");
+	url("resources/photo-1476733753947-ae6bd5805081_jvigtz.jpg");
 
 	/* Full height */ 
 	min-height: 1000px;
